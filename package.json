@@ -1,0 +1,26 @@
+{
+  "name": "replace-with",
+  "description": "Replace an array|object's content with the other one's while keeping the reference",
+  "author": "Ken Berkeley <kenberkeley@foxmail.com>",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenberkeley/replace-with.git"
+  },
+  "keywords": [
+    "replace",
+    "array",
+    "object",
+    "content",
+    "keep",
+    "preserve",
+    "reference"
+  ],
+  "devDependencies": {
+    "ava": "^0.19.1"
+  },
+  "license": "MIT"
+}
