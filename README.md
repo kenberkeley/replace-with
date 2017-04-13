@@ -1,4 +1,4 @@
-# replaceWith(orig `<Array|Object>`, other `<Array|Object>`)
+# replaceWith(orig, other)
 
 [![npm version][npm-v-img]][npm-url]
 [![npm download][npm-dl-img]][npm-url]
