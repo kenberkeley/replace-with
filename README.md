@@ -10,7 +10,7 @@
 
 ### Source ([index.js](./index.js))
 
-```
+```js
 /**
  * Replace an array|object's content with the other one's while keeping the reference
  * @param  {Array|Object} orig
@@ -36,7 +36,7 @@ module.exports = function replaceWith(orig, other) {
 ### Usage
 > Let's take a look at the [test examples](./test/index.js)
 
-```
+```js
 test('replace array', t => {
   const orig = [1, 2, 3]
   const ref = orig
